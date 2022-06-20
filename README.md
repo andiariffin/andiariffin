@@ -1,9 +1,9 @@
-<img align="left" width="240" src="https://user-images.githubusercontent.com/16325997/113520303-f411f900-9546-11eb-9261-243a40e417bc.png">
+<img align="left" width="240" src="https://user-images.githubusercontent.com/2369868/174547321-1a84db21-5fd1-4541-b822-2b4672179ed2.png">
 
 ## 🍻 welcome 🍻
 
 💻  i do linux (ai-hpc) system administration stuff at [NovaGlobal](https://novaglobal.com.sg)  
-🏠  based in ID (sometimes SG too)  
+🏠  based in :indonesia: (sometimes :singapore: too)  
 🐥  [@andiariffin](https://twitter.com/andiariffin)    
 😄  pronouns: he/him  
 🎮  dota 2 (still? yes, still.)  
