@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align="left" width="240" src="https://user-images.githubusercontent.com/16325997/113520303-f411f900-9546-11eb-9261-243a40e417bc.png">
 
-<!--
-**andiariffin/andiariffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🍻 welcome 🍻
 
-Here are some ideas to get you started:
+💻  i do linux (ai-hpc) system administration stuff at [NovaGlobal](https://novaglobal.com.sg)  
+🏠  based in ID (sometimes SG too)  
+🐥  [@andiariffin](https://twitter.com/andiariffin)    
+😄  pronouns: he/him  
+🎮  dota 2 (still? yes, still.)  
+🎧  listening to:  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22zl34eyhixgrxpmuthlwyhiy&cover_image=true&theme=natemoo-re&bar_color=ff0000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
